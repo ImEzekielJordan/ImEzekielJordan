@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ImEzekielJordan/Microsoft-Azure#readme)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ImEzekielJordan/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-  - [Configuring DNS settings within Azure VMs]
+  - [Configuring DNS settings within Azure VMs](https://github.com/ImEzekielJordan/Configuring-DNS-settings-within-Azure-VMs)
 
 <h2>🤳Connect with me:</h2>
 
